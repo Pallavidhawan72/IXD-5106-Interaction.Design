@@ -1,5 +1,5 @@
 # Interaction Design
-This repository shows my projects/assignments of Intercation design using UI/IX elements.
+This repository shows my projects/assignments of Interaction design using UI/IX elements.
 
 ## Information
 In this course, I learned UI/UX softwares to make website more interactive. Key topics covered include:
